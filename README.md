@@ -23,8 +23,6 @@ Execute:
 python3 share.py
 ```
 
-This can be executed in the background using ``` python3 share.py & ```
-
 # Request a file:
 
 From any machine and/or tool (curl/ Postman) create a GET request http://<ip>:<port>/getfile/<filename> to receive the file named <filename>

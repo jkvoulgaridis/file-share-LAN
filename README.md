@@ -10,10 +10,10 @@ pip3 install reqs.txt
 
 # Config server
 
-> In config.cnf set: 
-> IP the IP of the machine in the lan
-> PORT the desired port to run
-> SHARED_LIBS all the libraries to share (currently it is required for the shared libs to be children in the file-share-LAN dir)
+In config.cnf set: 
+* IP the IP of the machine in the lan
+* PORT the desired port to run
+* SHARED_LIBS all the libraries to share (currently it is required for the shared libs to be children in the file-share-LAN dir)
 
 
 # Boot the Server 
